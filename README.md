@@ -1,1 +1,1 @@
-# Minimum-klid-Mesafesinin-Hesaplanmas-
+# Minimum Oklid Mesafesinin Hesaplanması
